@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tienda>
+    <producto>
+        <nombre>Gus</nombre>
+        <precio>pantera</precio>
+        <fecha>negro</fecha>
+        <foto>https://cumbrepuebloscop20.org/wp-content/uploads/2018/09/Pantera-Negra-2.jpg</foto>
+        <descripcion>13</descripcion>
+        </producto>
+    <producto>
+        <nombre>Bun</nombre>
+        <precio>León</precio>
+        <fecha>Marrón</fecha>
+        <foto>https://cumbrepuebloscop20.org/wp-content/uploads/2018/09/Le%C3%B3n-2.jpg</foto>
+        <descripcion>15</descripcion>
+    </producto>
+    <producto>
+        <nombre>Leonardo</nombre>
+        <precio>Buitre</precio>
+        <fecha>Azul</fecha>
+        <foto>http://www.senderismoguadalajara.es/wp-content/uploads/2016/04/900px-Eagle_beak_sideview_A.jpg</foto>
+        <descripcion>20</descripcion>
+    </producto>
+    <producto>
+        <nombre>Boogy</nombre>
+        <precio>Oso</precio>
+        <fecha>Blanco</fecha>
+        <foto>https://cumbrepuebloscop20.org/wp-content/uploads/2018/09/OSO-POLAR-3.jpg</foto>
+        <descripcion>5</descripcion>
+    </producto>
+<producto><nombre>Ramon</nombre><precio>echidna</precio><fecha>gris</fecha><foto>https://productos.sandiegozoo.org/sites/default/files/2018-08/Echidna_WA_ZN.jpg</foto><descripcion>10</descripcion></producto><producto><nombre>Gerardo</nombre><precio>cucaracha</precio><fecha>blanco</fecha><foto>https://es.calcuworld.com/wp-content/uploads/sites/2/2018/03/esperanza-de-vida-de-la-jirafa.jpg</foto><descripcion>12</descripcion></producto></tienda>
